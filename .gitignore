@@ -17,3 +17,9 @@ lib/
 
 # J2EE files
 .mtj.tmp/
+/.metadata/
+
+
+#Google Demo
+.settings/
+*.prefs
